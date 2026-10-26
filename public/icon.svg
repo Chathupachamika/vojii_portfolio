@@ -1,26 +1,14 @@
 <svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @media (prefers-color-scheme: light) {
-      .background { fill: black; }
-      .foreground { fill: white; }
-    }
-    @media (prefers-color-scheme: dark) {
-      .background { fill: white; }
-      .foreground { fill: black; }
-    }
-  </style>
-  <g clip-path="url(#clip0_7960_43945)">
-    <rect class="background" width="180" height="180" rx="37" />
-    <g style="transform: scale(95%); transform-origin: center">
-      <path class="foreground"
-        d="M101.141 53H136.632C151.023 53 162.689 64.6662 162.689 79.0573V112.904H148.112V79.0573C148.112 78.7105 148.098 78.3662 148.072 78.0251L112.581 112.898C112.701 112.902 112.821 112.904 112.941 112.904H148.112V126.672H112.941C98.5504 126.672 86.5638 114.891 86.5638 100.5V66.7434H101.141V100.5C101.141 101.15 101.191 101.792 101.289 102.422L137.56 66.7816C137.255 66.7563 136.945 66.7434 136.632 66.7434H101.141V53Z" />
-      <path class="foreground"
-        d="M65.2926 124.136L14 66.7372H34.6355L64.7495 100.436V66.7372H80.1365V118.47C80.1365 126.278 70.4953 129.958 65.2926 124.136Z" />
-    </g>
-  </g>
-  <defs>
-    <clipPath id="clip0_7960_43945">
-      <rect width="180" height="180" fill="white" />
-    </clipPath>
-  </defs>
+  <rect width="180" height="180" rx="38" fill="#164B3B"/>
+  <path d="M28 139H152V153H28z" fill="#C4A15A" opacity=".9"/>
+  <path d="M34 153H146V161H34z" fill="#F7F5EF" opacity=".9"/>
+  <path d="M38 139L52 124H128L142 139H38Z" fill="#F7F5EF"/>
+  <path d="M55 124C52 111 56 99 66 91C61 84 60 76 63 69C67 59 77 53 90 53C103 53 113 59 117 69C120 76 119 84 114 91C124 99 128 111 125 124H55Z" fill="#F7F5EF"/>
+  <path d="M65 75C70 59 83 53 96 57C108 60 116 70 115 82C109 77 103 74 95 74C84 74 76 79 68 88C64 84 63 80 65 75Z" fill="#C4A15A"/>
+  <path d="M77 88C80 91 84 93 90 93C96 93 100 91 103 88" stroke="#164B3B" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="79" cy="80" r="3" fill="#164B3B"/><circle cx="101" cy="80" r="3" fill="#164B3B"/>
+  <path d="M78 105C85 109 95 109 102 105" stroke="#C4A15A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M73 125V139M107 125V139" stroke="#164B3B" stroke-width="4"/>
+  <path d="M124 32L132 45L146 48L136 58L138 72L124 65L110 72L112 58L102 48L116 45L124 32Z" fill="#C4A15A"/>
+  <path d="M124 41V61M114 51H134" stroke="#164B3B" stroke-width="3" stroke-linecap="round"/>
 </svg>

@@ -5,27 +5,13 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Voji Pathirana | Chess Player, Coach & Physical Science Undergraduate',
   description: 'Explore the chess journey, achievements, leadership experience, coaching background, and academic profile of Voji Pathirana.',
-  generator: 'v0.app',
   openGraph: {
     title: 'Voji Pathirana | Chess Player, Coach & Strategist',
     description: 'Competitive chess player, coach, and Physical Science undergraduate from Sri Lanka.',
     type: 'website',
   },
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
+    icon: [{ url: '/icon.svg', type: 'image/svg+xml' }],
     apple: '/apple-icon.png',
   },
 }
